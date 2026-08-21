@@ -32,7 +32,7 @@ Acredito que aprender é um processo contínuo. Por isso, este espaço também s
 
 ### 📫 Vamos nos conectar?
 
-- 💼 **LinkedIn:** [Seu Link do LinkedIn Aqui]
-- 📧 **E-mail:** [Seu E-mail Aqui]
+- 💼 **LinkedIn:** www.linkedin.com/in/natalia-oliveira-9373971bb
+- 📧 **E-mail:** natalia.anjos.oliveira@gmail.com
 
 > *"Transformando curiosidade em dados e dados em possibilidades."* 🚀
