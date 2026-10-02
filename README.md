@@ -1,55 +1,50 @@
-<h1 data-importer="text" align="left">Natalia Oliveira</h1>
+# Olá 👋, eu sou a Natália Oliveira
 
-###
+🎓 **Estudante de Engenharia Química**  
+📊 **Explorando o universo de Dados, Analytics e Tecnologia**  
+🚀 **Em aprendizado constante e sempre buscando transformar problemas em soluções**  
 
-<p data-importer="text" align="left">Estudante de Engenharia Química<br> Explorando o universo de Dados, Analytics e Tecnologia<br> Em aprendizado constante e sempre buscando transformar problemas em soluções</p>
+---
 
-###
+### 🚀 Sobre Mim
 
-<p data-importer="text" align="left">Minha trajetória começou na Engenharia Química, mas foi através da análise de dados, otimização de processos e criação de dashboards que descobriu um novo universo de possibilidades.<br><br>Tenho interesse em entender os processos por trás dos números e transformar informações em insights que possam apoiar decisões e gerar melhorias.</p>
+Minha trajetória começou na **Engenharia Química**, mas foi através da análise de dados, otimização de processos e criação de dashboards que descobri um novo universo de possibilidades.
 
-###
+Tenho grande interesse em entender os processos por trás dos números e transformar informações brutas em **insights estratégicos** que possam apoiar tomadas de decisão e gerar melhorias contínuas.
 
-<p data-importer="text" align="left">Estou desenvolvendo meus conhecimentos em análise de dados, dashboards, SQL, Python e Machine Learning, buscando oportunidades para aprender, evoluir e colocar meus conhecimentos na prática.<br><br>Acredito que aprender é um processo contínuo. Por isso, este espaço também será um registro da minha evolução, dos projetos que desenvolvo e de tudo que vou descobrindo pelo caminho. 💻✨<br><br>📫 Vamos nos conectar?<br>💼 LinkedIn: www.linkedin.com/in/natalia-oliveira-9373971bb<br>📧 E-mail: natalia.anjos.oliveira@gmail.com<br>"Transformando curiosidade em dados e dados em possibilidades." 🚀</p>
+Estou desenvolvendo e aprofundando meus conhecimentos em **Análise de Dados, Dashboards, SQL, Python e Machine Learning**, buscando oportunidades para aprender, evoluir e colocar meus conhecimentos na prática.
 
-###
+Acredito que aprender é um processo contínuo. Por isso, este espaço também será um registro da minha evolução, dos projetos que desenvolvo e de tudo que vou descobrindo pelo caminho. 💻✨
 
-<h2 data-importer="text" align="left">I code with</h2>
+---
 
-###
+### 🛠️ Eu programo e trabalho com:
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
+#### **Linguagens & Bancos de Dados**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-###
+#### **Análise de Dados & Machine Learning**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+#### **Visualização de Dados & Business Intelligence**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-###
+---
 
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-oliveira-9373971bb)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natalia.anjos.oliveira@gmail.com)
+
+---
+
+> *"Transformando curiosidade em dados e dados em possibilidades."* 🚀
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
   </a>
 </div>
